@@ -30,8 +30,6 @@ It also includes **GC content restriction** and **sequence avoidance** (e.g., re
 
 ## 备注 / Notes
 
-- 各子目录下通常包含独立的说明文档（如有）。  
 - 欢迎通过 Issues 提出建议，但不保证及时响应。
 
-- Each subdirectory usually contains its own documentation (if any).  
 - Suggestions are welcome via Issues, but responses are not guaranteed.
