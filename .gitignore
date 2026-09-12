@@ -39,3 +39,5 @@ Thumbs.db
 *.tsv.gz
 *.txt.gz
 *.pdf
+*.tsv
+*.csv.gz
